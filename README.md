@@ -21,6 +21,9 @@ In this case, from the Apply menu, choose System Preferences, click Security & P
 
 You can visit our [Big SQL Community](https://developer.ibm.com/answers/topics/big_Sql_sandbox.html) for asking product related questions. You can also refer to our FAQ section here and open an issue for unanswered question.
 
+## Uninstalling the application
+- On the menu in the upper-right corner select **Uninstall**.  This will uninstall the application and also remove the container and image.  
+
 ## FAQs
 
 - I already have docker installed on my laptop, will you use the existing install of docker or replace it?
